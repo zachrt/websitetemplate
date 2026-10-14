@@ -1,0 +1,5 @@
+Parent repository: https://github.com/AmalChUm/websitetemplate.git
+Fork URL: https://github.com/zachrt/websitetemplate.git
+Local folder: websitetemplate
+Default branch: main
+Initial site behavior: The site loads a generic portfolio template with placeholder text, images, and working section navigation.
